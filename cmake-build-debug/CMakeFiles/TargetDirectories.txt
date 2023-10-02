@@ -1,0 +1,3 @@
+C:/Users/jamer/CLionProjects/Gomoku/cmake-build-debug/CMakeFiles/gomoku.dir
+C:/Users/jamer/CLionProjects/Gomoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jamer/CLionProjects/Gomoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+2	147	7179781471174919	build.ninja	7a76948f560c9d17
+4	1428	7177063862275523	CMakeFiles/gomoku.dir/main.cc.obj	674ca86e72997395
+11	1519	7177063863175506	CMakeFiles/gomoku.dir/gomoku.cc.obj	ab19a952adfc9d
+1519	1683	7177063864815493	gomoku.exe	a8f3951a6da83e48
+8	441	7177063852420518	CMakeFiles/gomoku.dir/PositionTree.cpp.obj	4a8a3f6ef79682c3
+3	155	7176955802436835	CMakeFiles/gomoku.dir/Timer.cpp.obj	835eb82bd6a245ae
+1	158	7179781471174919	build.ninja	7a76948f560c9d17
+4	1882	7179781490319913	CMakeFiles/gomoku.dir/gomoku.cc.obj	ab19a952adfc9d
+1883	2171	7179781493384911	gomoku.exe	d0a794e8f6900fab
